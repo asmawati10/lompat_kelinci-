@@ -24,6 +24,7 @@ public class MyWorld extends World
         addObject(Kelinci,getWidth ()/2
         ,getHeight()/8);
         prepare();
+        Greenfoot.playSound("musikk.mp3");
     }
 
 
