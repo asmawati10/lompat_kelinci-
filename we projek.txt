@@ -3,3 +3,5 @@ suriani
 asmawati
 
 penambahan suara
+
+manabahkan kodingan skor
