@@ -25,6 +25,7 @@ public class MyWorld extends World
         ,getHeight()/8);
         prepare();
         Greenfoot.playSound("musikk.mp3");
+        
     
     }
 
