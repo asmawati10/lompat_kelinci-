@@ -12,8 +12,6 @@ public class nilai extends Actor
     public void act() 
     {
        gameOver();//method gameOverr
-       
-      
             
     }   
     public void Counter()//kelas Counter
@@ -32,6 +30,7 @@ public class nilai extends Actor
         Greenfoot.stop(); //stop permainan
         Greenfoot.playSound("gameover.mp3");
         System.out.println("CONGRATULATION! YOU WON! Click RESET to play again");
+        
             
 }
 }
