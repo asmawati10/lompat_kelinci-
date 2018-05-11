@@ -11,7 +11,8 @@ public class nilai extends Actor
     private int totalCount=0; //Counter default awal=0
     public void act() 
     {
-       gameOver();//method gameOver
+       gameOver();//method gameOverr
+       
       
             
     }   
